@@ -69,7 +69,7 @@ astu-schedule-finder/
 
 👤 Team Leader
 
-Tursina Yisehak – Project coordination, task planning, architecture oversight, final integration,and documentation .
+Tursina Yisehak – Project coordination, task planning, architecture oversight, final integration and documentation .
 
 👤 Team Members
 

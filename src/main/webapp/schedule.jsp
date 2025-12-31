@@ -9,6 +9,7 @@
 </head>
 <body>
     <header>
+
         <div class="logo">
             <img src="images/astu-logo.png" alt="ASTU">
             <h1>ASTU Schedule Finder</h1>
@@ -18,6 +19,7 @@
             <a href="room-search.jsp">Room Search</a>
             <a href="about.jsp">About</a>
         </nav>
+
     </header>
 
     <main>

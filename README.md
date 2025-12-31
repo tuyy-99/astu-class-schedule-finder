@@ -69,7 +69,7 @@ astu-schedule-finder/
 
 👤 Team Leader
 
-Tursina Yisehak – Project coordination, task planning, architecture oversight, and final integration
+Tursina Yisehak – Project coordination, task planning, architecture oversight, final integration,and documentation .
 
 👤 Team Members
 
@@ -81,7 +81,7 @@ Sumeya Abdi – Servlet development and request handling
 
 Michael Gizachew – Frontend development (JSP, CSS, JavaScript, AJAX)
 
-Bilal Usman – Testing, debugging, documentation, and quality assurance
+Bilal Usman – Testing, debugging, and quality assurance
 
 ---
 
@@ -143,7 +143,8 @@ http://localhost:8080/astu-schedule-finder
 🔍 Class Schedule Search
 
 Shows the schedule search form with course, academic year, and section selection.
-<img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/99563d0e-37a9-41cb-b511-5dd73035f3f9" />
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/f53e5457-9fdd-46b2-b17d-b3586e4221cf" />
+
 
 
 📋 Schedule Results

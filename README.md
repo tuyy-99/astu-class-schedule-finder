@@ -66,6 +66,7 @@ astu-schedule-finder/
 * Jira task management
 
 👥 Team Members
+
 👤 Team Leader
 
 Tursina Yisehak – Project coordination, task planning, architecture oversight, and final integration
@@ -137,6 +138,36 @@ http://localhost:8080/astu-schedule-finder
 * Modular and maintainable codebase
 
 ---
+🖼️ Screenshots
+
+🔍 Class Schedule Search
+
+Shows the schedule search form with course, academic year, and section selection.
+<img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/99563d0e-37a9-41cb-b511-5dd73035f3f9" />
+
+
+📋 Schedule Results
+
+Displays the retrieved class schedules after submitting the search.
+
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/2763302d-6aff-4baa-a777-01575771b8f9" />
+
+🏫 Room Availability Search
+
+Illustrates the room availability search by day and time.
+
+<img width="1280" height="579" alt="image" src="https://github.com/user-attachments/assets/2a049f8a-d660-4b66-923a-5a9847b47f36" />
+✅ Available Rooms Result
+
+Shows available rooms based on the selected criteria.
+
+<img width="1280" height="581" alt="image" src="https://github.com/user-attachments/assets/925c370e-1e07-4180-88a0-98970be8ac95" />  <img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/662c8121-35b6-4a84-aac3-7c865572b974" />
+
+ℹ️ About
+
+<img width="1280" height="578" alt="image" src="https://github.com/user-attachments/assets/02ebf6b5-1f19-42b1-a43f-b0895b1a3082" />
+
+
 ✅ Current Status
 
 All core features are implemented, tested, and ready for evaluation. The project demonstrates proper use of layered architecture, team collaboration, and modern Java web development practices.
